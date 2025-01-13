@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Illustration</title>
+      <meta name="keywords:" content="art, artist, Julia, illustration">
+      <link rel="stylesheet" href="style.css">
+      <link rel="shortcut icon" href="kirby.ico">
+      </head>
+
+   <body>
+     <header>
+       <h1>Julia's illustrations</h1>
+       <p>All work is done in ink on paper...</p>
+     </header>
+
+     <div class="featuredwork">
+      <img src="boats.jpg">
+      <p>Sailboats, 2024</p>
+
+      <img src="bug.jpg">
+      <p>Weevil, 2024</p>
+
+      <img src="IMG_5476.jpg">
+      <p>Pierced Ear, 2024</p>
+
+      <img src="IMG_1801.jpg">
+      <p>Frexio Tattoo Flash, 2024</p>
+
+      <img src="finger.png">
+      <p>Pointing Finger, 2024</p>
+
+      <img src="IMG_4172.png">
+      <p>Blue Whale, 2024</p>
+
+      <img src="moth.png">
+      <p>Moth, 2023</p>
+
+      <img src="slug.png">
+      <p>Banana Slug, 2023</p>
+
+      <img src="snail.png">
+      <p>Ecstatic Snail, 2023</p>
+
+      <img src="IMG_5477.jpg">
+      <p>Cyber-Stigilism Spinal Cord, 2023</p>
+
+    </div>
+   </body>
+
+   <footer>
+     <h2><a href="index.html">Homepage</a></h2>
+     <h2>Contact Me!</h2>
+       <p>Email: jrk2209@columbia.edu</p>
+       <p>Instagram: @juliamakesartz</p>
+   </footer>
+</html>
