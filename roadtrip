@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Roadtrip</title>
+      <meta name="keywords:" content="art, artist, Julia, photography">
+      <link rel="stylesheet" href="style.css">
+      <link rel="shortcut icon" href="kirby.ico">
+      </head>
+
+   <body>
+     <header>
+       <h1>Julia's Photography</h1>
+     </header>
+
+     <div class="featuredwork">
+                
+       <h2>Roadtrip Across the States, 2024</h2>
+       <img src="10.JPG">
+       <img src="11.JPG">
+       <img src="12.JPG">
+       <img src="13.JPG">
+       <img src="14.JPG">
+       <img src="15.JPG">
+       <img src="16.JPG">
+       <img src="17.JPG">
+       <img src="18.jpg">
+       <img src="110.JPG">
+       <img src="111.JPG">
+       <img src="112.JPG">
+       <img src="113.JPG">
+
+     </div>
+   </body>
+
+   <footer>
+     <h2><a href="index.html">Homepage</a></h2>
+     <h2>Contact Me!</h2>
+       <p>Email: jrk2209@columbia.edu</p>
+       <p>Instagram: @juliamakesartz</p>
+   </footer>
+</html>
