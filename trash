@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Photography</title>
+      <meta name="keywords:" content="art, artist, Julia, photography">
+      <link rel="stylesheet" href="style.css">
+      <link rel="shortcut icon" href="kirby.ico">
+      </head>
+
+   <body>
+     <header>
+       <h1>Julia's Photography</h1>
+     </header>
+
+     <div class="featuredwork">
+
+        <h2>This is Not a Trash Can, 2023</h2>
+        <a href="thisisnotatrashcan.pdf">Link to the Digital Publication</a>
+        <img src="a.png">
+        <img src="c.png">
+        <img src="b.png">
+        <img src="d.png">
+        <img src="e.png">
+
+     </div>
+   </body>
+
+   <footer>
+     <h2><a href="index.html">Homepage</a></h2>
+     <h2>Contact Me!</h2>
+       <p>Email: jrk2209@columbia.edu</p>
+       <p>Instagram: @juliamakesartz</p>
+   </footer>
+</html>
